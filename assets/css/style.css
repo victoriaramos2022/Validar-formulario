@@ -1,0 +1,53 @@
+h3{
+   margin-top: 30px;
+    margin-bottom: 50px;
+}
+.d-flex {
+    display: flex;
+  }
+  .align-items-center {
+    align-items: center;
+  }
+  .form-label {
+    width: 350px;
+    margin-right: 10px;
+  }
+  input[type=text ] {
+    margin-left: 20px;
+  }
+
+  .label{
+    margin-left: 25px; 
+   
+  }
+
+  .input{
+    margin-left: 40px;
+    padding: 5px 7px;
+    
+  }
+
+  .valid-feedback{
+    margin-left: 20px;
+  }
+  .invalid-feedback{
+    margin-left: 20px;
+  }
+  .d-flex{
+    margin-bottom: 30px;
+  }
+
+  .form-select{
+    width: 450px;
+  }
+ button{
+    margin-top: 30px;
+    margin-left: 250px;
+ 
+  }
+ a{
+    margin-top: 30px;
+    margin-left: 250px;
+ 
+  }
+
